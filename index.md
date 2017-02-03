@@ -13,5 +13,5 @@ Magnetic Poetry: A Java program using the Drag and Drop features of Swing. The p
 
 Molar Mass Calculator: A C++ program takes a chemical formula as input and outputs the chemical's molar mass. [Code] (https://aagnelly.github.io/Molar-Mass-Calculator/)
 
-OWL Chemistry: OWL chemistry is a website I made for my students to learn chemistry. It includes quizzes, drag and drop activities, simulations, and other modules to learn about chemistry. [Link](www.owlchemistry.com)
+OWL Chemistry: OWL chemistry is a website I made for my students to learn chemistry. It includes quizzes, drag and drop activities, simulations, and other modules to learn about chemistry. [Link](http://www.owlchemistry.com)
 
