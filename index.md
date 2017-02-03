@@ -11,7 +11,7 @@ Postfix Evaluator: Java project that implements the use of stacks to convert a p
 
 Magnetic Poetry: A Java program using the Drag and Drop features of Swing. The program simulates refrigerator poetry magnets, allowing them to drag words into a text field to create a poem. [Code]( https://aagnelly.github.io/Magnetic-Poetry/)
 
-Molar Mass Calculator: A C++ program takes a chemical formula as input and outputs the chemical's molar mass. [Code] (https://aagnelly.github.io/Molar-Mass-Calculator/)
+Molar Mass Calculator: A C++ program takes a chemical formula as input and outputs the chemical's molar mass. [Code] (http://aagnelly.github.io/molar-mass-calculator/)
 
 OWL Chemistry: OWL chemistry is a website I made for my students to learn chemistry. It includes quizzes, drag and drop activities, simulations, and other modules to learn about chemistry. [Link](http://www.owlchemistry.com)
 
