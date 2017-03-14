@@ -6,6 +6,8 @@ Thanks for visiting! I’m a chemistry teacher about to wrap up a new degree in 
 ## Some Projects:
 Gas Law Simulator: Simulation for students to explore the effects of changing temperature, pressure, volume, and the amount of gas on one another. Coded in JavaScript and JQuery. [Code](https://aagnelly.github.io/Gas-Law-Simulator/); [Simulation](http://www.owlchemistry.com/gasSimulation.html)
 
+Cat Shuffle: A web application that shuffles through images of cats before stopping on a final image. It serves no purpose other than to add more cats to the internet. [Code]( https://aagnelly.github.io/catshuffle/); [Application] (audraagnelly.com/catshuffle.html)
+
 Kayak Route Planner: A personal project to plan a kayaking trip. The application populates a Google Map with markers at the locations of campgrounds on the Susquehannna river. In the application, I can draw a path on the river between markers in order to determine the paddling distance between campgrounds. The application is still in progress and needs additional campgrounds added to the map. Coded in JavaScript using Google Maps APIs. [Code]( https://aagnelly.github.io/KayakRoutePlanner/);
 
 Postfix Evaluator: Java project that implements the use of stacks to convert a postfix expression to an infix expression and calculate the output. [Code](https://aagnelly.github.io/postfix-evaluator/)
